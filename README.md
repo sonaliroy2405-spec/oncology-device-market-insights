@@ -1,5 +1,7 @@
 # Oncology Device Market — Industry Report (2026)
 
+<img width="1920" height="1080" alt="Oncology Device Market" src="https://github.com/user-attachments/assets/48e546f4-21a9-4877-9519-4d4f040c4630" />
+
 The oncology device market is expanding rapidly due to the rising global burden of cancer, growing adoption of advanced diagnostics and treatment technologies, and supportive healthcare spending patterns. Recent industry developments show strong capital activity in oncology diagnostics and device innovation, including substantial funding for skin cancer detection devices and next‑generation radiotherapy platforms. North America continues to hold a dominant revenue share supported by well‑developed healthcare infrastructure and high procedural volumes, while emerging regions are attracting investment due to increasing access and rising disease awareness. In parallel, AI integration and connected device platforms are reshaping clinical workflows and clinical decision‑making.
 
 According to the analysis of Next Move Strategy Consulting, the market value of **[Oncology Device Market](https://www.nextmsc.com/report/oncology-device-market-hc3810)** is projected to reach **USD 518.56 billion** by 2030, growing at a **CAGR of 15.0%**.
